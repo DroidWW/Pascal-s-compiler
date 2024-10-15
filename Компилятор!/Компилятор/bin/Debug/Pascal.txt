@@ -1,0 +1,18 @@
+program Evklid;
+var i:integer;
+a:real;
+begin
+for i:= 0 tod 20 dosa
+begin
+i:==i+1;
+i:=i*i;
+end;
+if i<2 thensadd
+begin
+i:=i+1;
+end
+elseassa
+begin
+i:=<i+2;
+end;
+end.
